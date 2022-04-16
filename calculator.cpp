@@ -10,7 +10,8 @@ using namespace std;
 //main() is called main function
 int main()
 {
-
+    while(1)
+    {
     char optr;
     float num1, num2;
     cout<<"                           ******************** Calculator ******************\n";
@@ -44,6 +45,7 @@ int main()
         //when other oparator show
         cout << "Error!";
         break;
+    }
     }
 
     return 0;
