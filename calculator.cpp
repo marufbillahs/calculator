@@ -1,13 +1,5 @@
-//include is called pre-processor
-//iostream means i=input,o=output,streaming
-//include<iostream> is header file
 # include <iostream>
-
-//calling cout and cin for global format
 using namespace std;
-
-//int is called data type
-//main() is called main function
 int main()
 {
 
